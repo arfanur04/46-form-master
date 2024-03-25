@@ -1,11 +1,13 @@
 import "./App.css";
-import SimpleForm from "./components/SimpleForm/SimpleForm";
+import StatefulForm from "./components/StatefulForm/StatefulForm";
+// import SimpleForm from "./components/SimpleForm/SimpleForm";
 
 function App() {
 	return (
 		<>
 			<h2>Simple form</h2>
-			<SimpleForm></SimpleForm>
+			{/* <SimpleForm></SimpleForm> */}
+			<StatefulForm></StatefulForm>
 		</>
 	);
 }
