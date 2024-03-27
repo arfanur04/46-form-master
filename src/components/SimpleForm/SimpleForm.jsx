@@ -12,19 +12,19 @@ const SimpleForm = () => {
 				<input
 					type="text"
 					name="name"
-					id=""
+					// id=""
 				/>
 				<br />
 				<input
 					type="email"
 					name="email"
-					id=""
+					// id=""
 				/>
 				<br />
 				<input
 					type="password"
 					name="password"
-					id=""
+					// id=""
 				/>
 				<br />
 				<input
